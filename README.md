@@ -12,3 +12,6 @@ https://user-images.githubusercontent.com/53333096/236132980-59ca8e0e-bd19-4af9-
 1. リポジトリをclone
 2. [chrome://extensions](chrome://extensions)にアクセス（デベロッパーモードをON）
 3. 「パッケージ化されていない拡張機能を読み込む」から/srcを選択
+
+# Note
+ボタンによる遷移はできない（分かる方はissueで教えていただけると泣いて喜びます）
